@@ -8,7 +8,7 @@ A showcase app demonstrating three interactive Flutter widget challenges.
 
 ### Demo Media
 
-<video src="screenrecord/video.mp4" width="640" controls>
+<video src="screenrecord/video.mp4" width="640" controls autoplay muted loop playsinline poster="screenshots/Screenshot_1758695678.png">
   Your browser doesn't support embedded videos. You can download it from
   <a href="screenrecord/video.mp4">screenrecord/video.mp4</a>.
   
