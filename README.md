@@ -7,7 +7,13 @@ A showcase app demonstrating three interactive Flutter widget challenges.
 - Challenge 3: Advanced Animation Chain (sequential loading dots)
 
 ### Demo Media
-- Screen recording: `screenrecord/video.mp4`
+
+<video src="screenrecord/video.mp4" width="640" controls>
+  Your browser doesn't support embedded videos. You can download it from
+  <a href="screenrecord/video.mp4">screenrecord/video.mp4</a>.
+  
+</video>
+
 - Screenshots: see the `screenshots/` directory (thumbnails below)
 
 ### Table of Contents
@@ -44,17 +50,22 @@ A showcase app demonstrating three interactive Flutter widget challenges.
 
 ### Screenshots
 
-Below are sample screenshots from `screenshots/`:
+Below are sample screenshots from `screenshots/` (scaled thumbnails):
 
-![Screenshot 1](screenshots/Screenshot_1758695678.png)
-![Screenshot 2](screenshots/Screenshot_1758695685.png)
-![Screenshot 3](screenshots/Screenshot_1758695690.png)
-![Screenshot 4](screenshots/Screenshot_1758695708.png)
-![Screenshot 5](screenshots/Screenshot_1758695718.png)
-![Screenshot 6](screenshots/Screenshot_1758695722.png)
-![Screenshot 7](screenshots/Screenshot_1758695728.png)
+<p>
+  <img src="screenshots/Screenshot_1758695678.png" alt="Screenshot 1" width="260" />
+  <img src="screenshots/Screenshot_1758695685.png" alt="Screenshot 2" width="260" />
+  <img src="screenshots/Screenshot_1758695690.png" alt="Screenshot 3" width="260" />
+</p>
 
-For a full walk-through, open the recording at `screenrecord/video.mp4`.
+<p>
+  <img src="screenshots/Screenshot_1758695708.png" alt="Screenshot 4" width="260" />
+  <img src="screenshots/Screenshot_1758695718.png" alt="Screenshot 5" width="260" />
+  <img src="screenshots/Screenshot_1758695722.png" alt="Screenshot 6" width="260" />
+  <img src="screenshots/Screenshot_1758695728.png" alt="Screenshot 7" width="260" />
+</p>
+
+For a full walk-through, play the embedded video above or open `screenrecord/video.mp4`.
 
 ---
 
