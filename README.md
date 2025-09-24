@@ -14,15 +14,7 @@ A showcase app demonstrating three interactive Flutter widget challenges.
   </a>
 </p>
 
-<a href="https://drive.google.com/file/d/1J5TUs8vPBDYLx7cV1Y_-erVaT3UgYbul/view?usp=sharing" target="_blank">
-  <img src="screenshots/Screenshot_1758695678.png" alt="Video poster" width="640" />
-</a>
 
-<video src="screenrecord/video.mp4" width="640" controls autoplay muted loop playsinline poster="screenshots/Screenshot_1758695678.png">
-  Your browser doesn't support embedded videos. You can download it from
-  <a href="screenrecord/video.mp4">screenrecord/video.mp4</a>.
-  
-</video>
 
 - Screenshots: see the `screenshots/` directory (thumbnails below)
 
